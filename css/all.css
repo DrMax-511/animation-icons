@@ -34,8 +34,7 @@ span[class*='icon'] {
 .heart {
     display: block;
     font-size: 80px;
-    animation: pulse 1.5s linear infinite;
-    filter: drop-shadow(0 0 0 black);
+    animation: pulse 1.5s linear infinite;    
 }
 
 @-webkit-keyframes pulse {
